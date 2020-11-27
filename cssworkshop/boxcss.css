@@ -1,0 +1,22 @@
+#top{
+    border-style: solid;
+    border-color: coral;
+    border-width: 2px;
+    width: 50%;
+    margin-left: 200px ;
+    background-color: cyan;
+    padding-left: 25%;
+    
+}
+#bottom{
+    border-style: solid;
+    border-color: coral;
+    border-width: 2px;
+    width: 50%;
+    margin-top: 450px ;
+    margin-left: 200px ;
+    padding-left: 25%;
+}
+h1{
+    font-family: 'Goldman',cursive;
+}

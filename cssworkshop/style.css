@@ -1,0 +1,45 @@
+
+body{
+   background-image: url("ipl2020.jpg");
+   background-size: cover;
+}
+
+h1{
+    color:blue;
+    text-align: center;
+}
+#team{
+    color:rgb(222, 51, 199);
+}
+
+div{
+    border-style: dotted;
+    border-color:rgb(4, 253, 66);
+    border-width: 5px;
+    background-color:rgba(225, 240, 18, 0.8);
+    width: 20%;
+    margin: auto;
+}
+#mi{
+    color:wheat;
+    border-style: double;
+    border-color: violet;
+    border-width: 5px;
+    background-color: rgba(3, 3, 73,0.8);
+}
+.team{
+    border-style: solid;
+    border-color: rgb(82, 112, 129);
+    border-width: 5px;
+    background-color: rgb(33, 133, 66);
+
+}
+div h3{
+    text-align: center;
+}
+
+li{
+    margin-left: 40%;
+    
+}
+
